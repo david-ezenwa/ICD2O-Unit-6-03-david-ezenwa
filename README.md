@@ -1,10 +1,10 @@
 # ICS2O ⇢ Unit #5-05
 
-[![Mr Coxall's Super Linter](https://github.com/<OWNER>/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Mr Coxall's Super Linter](https://github.com/david-ezenwa/ICD2O-Unit-6-03-david-ezenwa/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/david-ezenwa/ICD2O-Unit-6-03-david-ezenwa/actions)
 
-[![Deploy Pages](https://github.com/<OWNER>/<REPOSITORY>/workflows/Deploy%20Pages/badge.svg)](https://github.com/<OWNER>/<REPOSITORY>/actions)
+[![Deploy Pages](https://github.com/david-ezenwa/ICD2O-Unit-6-03-david-ezenwa/workflows/Deploy%20Pages/badge.svg)](https://github.com/david-ezenwa/ICD2O-Unit-6-03-david-ezenwa/actions)
 
-This site can be found at: [https://<OWNER>.github.io/<REPOSITORY>](https://<OWNER>.github.io/<REPOSITORY>)
+This site can be found at: [https://david-ezenwa.github.io/ICD2O-Unit-6-03-david-ezenwa](https://david-ezenwa.github.io/ICD2O-Unit-6-03-david-ezenwa)
 
 ---
 
